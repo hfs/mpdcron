@@ -1,3 +1,9 @@
+mpdcron (0.3+git20121229-1) unstable; urgency=low
+
+  * stats module: Add "karma" rating and last played date to song statistics.
+
+ -- Hermann Schwarting <debian@knackich.de>  Sat, 29 Dec 2012 21:30:22 +0100
+
 mpdcron (0.3+git20110303-3) unstable; urgency=low
 
   * Bumped-up Standards-Version
