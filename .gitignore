@@ -52,3 +52,7 @@ GPATH
 GRTAGS
 GSYMS
 GTAGS
+/debian/files
+/debian/mpdcron.debhelper.log
+/debian/mpdcron.substvars
+/debian/mpdcron
