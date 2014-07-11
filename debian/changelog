@@ -1,3 +1,9 @@
+mpdcron (0.3+git20130809-1) unstable; urgency=low
+
+  * Update to latest upstream version (1dd1618)
+
+ -- Hermann Schwarting <debian@knackich.de>  Fri, 11 Jul 2014 22:15:00 +0100
+
 mpdcron (0.3+git20121230-1) unstable; urgency=low
 
   * stats module: Add "karma" rating and last played date to song statistics.
