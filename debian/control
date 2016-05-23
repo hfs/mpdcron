@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/sdelafond/mpdcron
 
 Package: mpdcron
 Architecture: any
-Depends: libnotify-bin, ruby, libnokogiri-ruby, ${shlibs:Depends}, ${misc:Depends}
+Depends: libnotify-bin, ruby, ruby-nokogiri, ${shlibs:Depends}, ${misc:Depends}
 Suggests: mpd
 Description: add scrobbler, rating, play counts and other functionalities to MPD
  mpdcron is a daemon that watches a Music Player Daemon instance for idle
